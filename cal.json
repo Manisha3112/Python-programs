@@ -1,0 +1,22 @@
+{
+   "calculations":
+   [
+     {
+         "operation":"add",
+         "value":[31,12]
+     },
+     {
+        "operation":"sub",
+        "value":[31,12]
+     },
+     {
+        "operation":"mul",
+        "value":[31,12]
+     },
+     {
+        "operation":"div",
+        "value":[3,1]
+     }
+   ] 
+    
+}
